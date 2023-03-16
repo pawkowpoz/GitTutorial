@@ -45,3 +45,4 @@ for x,y in dataset:
   print("y = ", y.numpy())
   
  #modyfikacja git
+ #modyfikacja git 2
